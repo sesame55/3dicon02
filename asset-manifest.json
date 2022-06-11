@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sesame55/3dicon02.git/static/css/main.a20270bd.css",
+    "main.js": "/sesame55/3dicon02.git/static/js/main.1e758212.js",
+    "index.html": "/sesame55/3dicon02.git/index.html",
+    "main.a20270bd.css.map": "/sesame55/3dicon02.git/static/css/main.a20270bd.css.map",
+    "main.1e758212.js.map": "/sesame55/3dicon02.git/static/js/main.1e758212.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a20270bd.css",
+    "static/js/main.1e758212.js"
+  ]
+}
